@@ -19,7 +19,7 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<b><center>Ansible</center></b>
+<b><center>Ansible</center></b><br>
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
 </td>
 
