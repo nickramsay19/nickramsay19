@@ -1,15 +1,15 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Nicholas Ramsay](https://www.linkedin.com/) :blush:	 . I am studying Software Engineering at Macquarie University, New South Wales, Australia.
+* I am [Nicholas Ramsay](https://www.linkedin.com/). I am studying Software Engineering at Macquarie University, New South Wales, Australia.
 
 * I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com)
+* :magnet: You can checkout my projects from here :fire: - [Github](https://github.com)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/) :sparkler:
+* Connect with me on LinkedIn [LinkeDin Profile](https://www.linkedin.com/)
 
 
 ## Tech Stack :computer:
