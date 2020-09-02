@@ -3,11 +3,11 @@
 
 * I am [Nicholas Ramsay](https://www.linkedin.com/). I am studying Software Engineering at Macquarie University, New South Wales, Australia.
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+* I have done multiple projects ranging from the field of Devops, Backend to Cloud Computing and Automation :file_cabinet: .
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :fire: - [Github](https://github.com)
+* :magnet:  You can checkout my projects from here - [Github](https://github.com)
 
 * Connect with me on LinkedIn [LinkeDin Profile](https://www.linkedin.com/)
 
