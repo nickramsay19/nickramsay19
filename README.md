@@ -5,4 +5,4 @@
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
-* Connect with me on LinkedIn [LinkeDin Profile](https://www.linkedin.com/)
+* Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/nicholas-ramsay-a296501aa/)
