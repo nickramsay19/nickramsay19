@@ -4,7 +4,8 @@
 
 <p align="left">
     I'm an aspiring software engineer, interested in systems programming, server administration, programming language development and much more. 
-
+</p>
+<p align="left">
     I will be completing my Bachelor of Software Engineering at the University of New South Wales in 2024.
 </p>
 
