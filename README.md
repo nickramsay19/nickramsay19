@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-    A software engineer interested in systems programming, server administration, financial computation, programming language development and more. I have an honours degree in software engineering at the University of New South Wales (UNSW).
+    A software engineer interested in systems programming, server administration, financial computation, programming language development and more. I am completing am honours degree in software engineering at the University of New South Wales (UNSW).
 </p>
 
 ###
